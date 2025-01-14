@@ -523,7 +523,7 @@
     position: relative;
 }
 
-.statistic .inner-wrap .inner-name::after {
+/* .statistic .inner-wrap .inner-name::after {
     content: '';
     position: absolute;
     width: 70%;
@@ -531,7 +531,7 @@
     top: -40px;
     left: 70%;
     background: url(../images/circle-dec.png) center center no-repeat;
-}
+} */
 
 .statistic .inner-wrap .row .none .inner-name::after {
     content: '';
